@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.navbar{
+    position: fixed;
+
+}
+
+.size{
+    width: 100%;
+    height: 300px;
+
+}
+.div1{
+    background-color: #a6e7ff;
+}
+.div2{
+    background-color: #eee3dd;
+}
+.div3{
+    background-color: #c8fd3d;
+}
+.div4{
+    background-color: #fcedc5;
+}
+.div5{
+    background-color: #cae1d9;
+}
+.div6{
+    background-color: #9ab8c2;
+}
+.div7{
+    background-color: #95e3c0;
+}
+.div8{
+    background-color: #f4ecdb;
+}
+.div9{
+    background-color: #fffafa;
+   
+}
+.div10{
+    background-color: #fbe0dc;
+}
+
+.div-h1{
+    padding-top: 100px;
+    
+}
